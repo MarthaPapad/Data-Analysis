@@ -1,7 +1,6 @@
 % Analush kai Epeksergasia Dedomenwn
 % Zhthma 4
 % Papadopoulou Martha
-% AEM: 4438
 
 clear; clc; close all;
 
